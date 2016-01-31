@@ -1,0 +1,12 @@
+# Project
+workspace/
+
+# Idea
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Other
+*.zip
