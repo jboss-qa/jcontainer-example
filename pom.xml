@@ -59,14 +59,16 @@
 
 	<repositories>
 		<repository>
-			<id>jboss-soa-qa-maven-repository</id>
-			<url>http://dl.bintray.com/jboss-soa-qa/maven/</url>
+			<id>jboss-public-repository-group</id>
+            <name>JBoss Public Repository Group</name>
+            <url>http://repository.jboss.org/nexus/content/groups/public/</url>
 		</repository>
 	</repositories>
 	<pluginRepositories>
 		<pluginRepository>
-			<id>jboss-soa-qa-maven-repository</id>
-			<url>http://dl.bintray.com/jboss-soa-qa/maven/</url>
+			<id>jboss-public-repository-group</id>
+            <name>JBoss Public Repository Group</name>
+            <url>http://repository.jboss.org/nexus/content/groups/public/</url>
 		</pluginRepository>
 	</pluginRepositories>
 </project>
